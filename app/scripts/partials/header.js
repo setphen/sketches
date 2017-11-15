@@ -1,0 +1,1 @@
+window.sketches = new Object;
